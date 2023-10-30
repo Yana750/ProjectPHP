@@ -21,12 +21,12 @@
         <form action="form.php" method="post">
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Firstname</label>
-                <input type="text" class="form-control" name="firstname" id="exampleFormControlInput1" value="<?php echo $_POST['firstname'] ?? '' ?>">
+                <input type="text" class="form-control" name="Имя" id="exampleFormControlInput1" value="<?php echo $_POST['Имя'] ?? '' ?>">
             </div>
 
             <div class="mb-3">
                 <label for="exampleFormControlInput2" class="form-label">Lastname</label>
-                <input type="text" class="form-control" name="lastname" id="exampleFormControlInput2" value="<?php echo $_POST['lastname'] ?? '' ?>" placeholder="Фамилия">
+                <input type="text" class="form-control" name="Фамилия" id="exampleFormControlInput2" value="<?php echo $_POST['Фамилия'] ?? '' ?>" placeholder="Фамилия">
             </div>
 
             <div class="mb-3">

@@ -61,6 +61,7 @@ if (isset($_GET['action']) && 'logout' === $_GET['action']) {
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
 <body>
+
 <div class="container">
     <header class="d-flex justify-content-center py-3">
         <ul class="nav nav-pills">
