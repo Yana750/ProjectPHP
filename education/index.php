@@ -55,7 +55,7 @@ if (isset($_GET['action']) && 'logout' === $_GET['action']) {
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
     <title>Заголовок страницы в браузере</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
